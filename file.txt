@@ -1,4 +1,5 @@
-Hello, Git!
+Hello from main branch!
+This line will stay the same for now.
 feature 1 from feature-ff
 feature 2 from feature-ff
 feature 3 from feature-no-ff
