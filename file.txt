@@ -1,3 +1,4 @@
 Hello, Git!
 feature 1 from feature-ff
 feature 2 from feature-ff
+feature 3 from feature-no-ff
