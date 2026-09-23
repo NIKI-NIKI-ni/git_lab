@@ -1,0 +1,10 @@
+* dd7c99b (HEAD -> feature-rebase) Add extra line in feture-rebase
+* 8aa744c change greeting in feature-rebase
+* 79cfa30 (main) Change greeting in main
+*   c94c4e4 Merge feature-no-ff
+|\  
+| * a6207ba (feature-no-ff) Add feature 3 in feature-ff
+|/  
+* 077614e (feature-ff) Add feature 2 in feature-ff
+* c1c42e9 Add feature 1 in feature-ff
+* a1200f2 Initial commit

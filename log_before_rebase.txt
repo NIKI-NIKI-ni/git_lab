@@ -1,0 +1,9 @@
+* 556e76d (HEAD -> feature-rebase) Add extra line in feture-rebase
+* 15d2162 change greeting in feature-rebase
+*   c94c4e4 (main) Merge feature-no-ff
+|\  
+| * a6207ba (feature-no-ff) Add feature 3 in feature-ff
+|/  
+* 077614e (feature-ff) Add feature 2 in feature-ff
+* c1c42e9 Add feature 1 in feature-ff
+* a1200f2 Initial commit
